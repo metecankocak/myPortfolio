@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    color: whitesmoke;
+    background-color: darkseagreen;
+}
+
+h2{
+    color: whitesmoke;
+    background-color: #e59b45;
+}
+
+*{
+    text-align: center;
+}
