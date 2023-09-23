@@ -1,17 +1,76 @@
-body{
-    background-color: antiquewhite;
-}
 
-h1{
-    color: whitesmoke;
-    background-color: darkseagreen;
-}
 
-h2{
-    color: whitesmoke;
-    background-color: #e59b45;
-}
-
-*{
+.navbar{
+    align-items: center;
     text-align: center;
+    
+}
+.karşılama{
+    background-color: #393E46;
+    min-height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+.isim{
+    grid-column-start: 2;
+    grid-row-start: 2;
+    text-align: center;
+}
+.profil{
+    border-radius: 50%;
+    max-height: 300px;
+    padding: 12px;
+    justify-content: center;
+    align-items: center;
+}
+.karşılama h1{
+    color: #EEEEEE;
+}
+
+.karşılama h4{
+    color: #00ADB5;
+}
+
+.karşılama .card{
+    background-color: #222831;
+    display: inline-flex;
+    margin: 24px;
+    padding: 24px;
+    color: #EEEEEE;
+}
+.karşılama .card-img-top{
+    max-height: 50px;
+}
+.footer{
+    background-color: #323232;
+    color: #EEEEEE;
+    min-height: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 12px;
+    
+}
+
+.iletişim .ikon{
+min-height: 30px;
+}
+
+.iletişim{
+    text-align: center;
+    background-color: #00ADB5;
+    padding-right: 24px;
+}
+.karşılama *{
+    text-align: center;
+    color: #EEEEEE;
+}
+
+.karşılama h2{
+    color: #00ADB5;
 }
