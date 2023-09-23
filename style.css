@@ -5,7 +5,7 @@
     text-align: center;
     
 }
-.karşılama{
+.index{
     background-color: #393E46;
     min-height: 100%;
     justify-content: center;
@@ -28,22 +28,22 @@
     justify-content: center;
     align-items: center;
 }
-.karşılama h1{
+.index h1{
     color: #EEEEEE;
 }
 
-.karşılama h4{
+.index h4{
     color: #00ADB5;
 }
 
-.karşılama .card{
+.index .card{
     background-color: #222831;
     display: inline-flex;
     margin: 24px;
     padding: 24px;
     color: #EEEEEE;
 }
-.karşılama .card-img-top{
+.index .card-img-top{
     max-height: 50px;
 }
 .footer{
@@ -57,20 +57,20 @@
     
 }
 
-.iletişim .ikon{
+.contact .ikon{
 min-height: 30px;
 }
 
-.iletişim{
+.contact{
     text-align: center;
     background-color: #00ADB5;
     padding-right: 24px;
 }
-.karşılama *{
+.index *{
     text-align: center;
     color: #EEEEEE;
 }
 
-.karşılama h2{
+.index h2{
     color: #00ADB5;
 }
